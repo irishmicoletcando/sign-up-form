@@ -1,7 +1,13 @@
+import FreeTrial from "./components/FreeTrial";
+import SignUpForm from "./components/SignUpForm";
+import Title from "./components/Title";
+
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <div className="bg-desktop bg-red h-screen font-poppins text-white p-20">
+      <Title />
+      <FreeTrial />
+      <SignUpForm />
+    </div>
   )
 }
