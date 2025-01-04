@@ -15,6 +15,7 @@ export default {
         red: 'hsl(0, 100%, 74%)',
         green: 'hsl(154, 59%, 51%)',
         blue: 'hsl(248, 32%, 49%)',
+        'light-green': 'hsl(154.44, 65.85%, 67.84%)',
         'dark-blue': 'hsl(249, 10%, 26%)',
         'grayish-blue': 'hsl(246, 25%, 77%)',
       },
